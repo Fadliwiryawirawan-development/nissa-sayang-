@@ -1,3 +1,6 @@
+
+![bukti sebelum dihapus komentar](https://github.com/user-attachments/assets/5a9cb28f-cf98-43a1-925e-7b01c1a9492e)
+
 # Coding Interview University
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
